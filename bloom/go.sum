@@ -1,0 +1,10 @@
+github.com/OneOfOne/xxhash v1.2.7 h1:fzrmmkskv067ZQbd9wERNGuxckWw67dyzoMG62p7LMo=
+github.com/OneOfOne/xxhash v1.2.7/go.mod h1:eZbhyaAYD41SGSSsnmcpxVoRiQ/MPUTjUdIIOT9Um7Q=
+github.com/inspirent/go-spooky v0.0.0-20170302183822-6ffad0b37f46 h1:1eNJ/GBeE72TbqfrLMHmXT5bUcfv37SBkclxHPykYm0=
+github.com/inspirent/go-spooky v0.0.0-20170302183822-6ffad0b37f46/go.mod h1:SFot7Z3IOvU41Vc33yjF9MbOXtKMPnpwHz1cXpDvyT0=
+github.com/spaolacci/murmur3 v1.1.0 h1:7c1g84S4BPRrfL5Xrdp6fOJ206sU9y293DDHaoy0bLI=
+github.com/spaolacci/murmur3 v1.1.0/go.mod h1:JwIasOWyU6f++ZhiEuf87xNszmSA2myDM2Kzu9HwQUA=
+github.com/zond/god v0.0.0-20190220213333-3fc995f544e6 h1:Sv51WgBbeaV6q+qR/tTKaMGcilZrzDFX8DchlEzRGZ8=
+github.com/zond/god v0.0.0-20190220213333-3fc995f544e6/go.mod h1:pc8wdg7232WU/1RLLxmcDedyeciBAWBV/H63U0+AJr4=
+lukechampine.com/blake3 v1.0.0 h1:dNj1NVD7SLgkU7dykKjmmOSOTTx7ZmxnDyUyvxnQP2Q=
+lukechampine.com/blake3 v1.0.0/go.mod h1:e0XQzEQp6LtbXBhzYxRoh6s3kcmX+fMMg8sC9VgWloQ=
