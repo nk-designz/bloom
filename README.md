@@ -1,6 +1,6 @@
 # Bloom
 a simple library for implementing bloom-filters into go-projects
-# Usage
+# Example
 ```go
 package main
 
@@ -34,4 +34,13 @@ func main() {
     }
   }
 }
+```
+```text
+$ go run . 
+What to do? add 2112_Rush
+What to do? probe Sgt_Peppers-The_Beatles
+no.
+What to do? add Sgt_Peppers-The_Beatles
+What to do? probe Sgt_Peppers-The_Beatles
+maybe have it
 ```
