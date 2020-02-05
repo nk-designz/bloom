@@ -7,7 +7,7 @@ import(
 	"github.com/OneOfOne/xxhash"
 )
 
-type Function func([]byte) []byte
+type HashFunction func([]byte) []byte
 
 func Murmur(bytes []byte) []byte {
 	return murmur.HashBytes(bytes)
