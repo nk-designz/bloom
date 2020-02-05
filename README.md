@@ -9,7 +9,7 @@ import(
   "fmt"
   "os"
  
-  "https://github.com/nk-designz/bloom"
+  "github.com/nk-designz/bloom"
 )
 
 func main() {
@@ -23,7 +23,7 @@ func main() {
       vinylCollection.Add(record)
     } else {
       if(vinylCollection.Probe(record)) {
-        fmt.Println("chance of success")
+        fmt.Println("maybe have it")
       } else {
         fmt.Println("no.")
       }
